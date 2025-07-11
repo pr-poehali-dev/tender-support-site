@@ -224,23 +224,6 @@ const Index = () => {
                 </CardDescription>
               </CardContent>
             </Card>
-
-            <Card className="border-none shadow-md hover:shadow-lg transition-shadow">
-              <CardHeader>
-                <div className="bg-blue-600 rounded-lg p-3 w-12 h-12 flex items-center justify-center mb-4">
-                  <Icon name="BookOpen" className="h-6 w-6 text-white" />
-                </div>
-                <CardTitle className="text-xl text-slate-900">
-                  Обучение
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <CardDescription className="text-slate-600">
-                  Обучение сотрудников работе с тендерными площадками и
-                  особенностям участия в государственных закупках
-                </CardDescription>
-              </CardContent>
-            </Card>
           </div>
         </div>
       </section>
